@@ -38,7 +38,7 @@ View Live Portfolio
 ## 🔧 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/java-developer-portfolio.git
+git clone [https://github.com/yourusername/java-developer-portfolio.git](https://github.com/HarshaTechKnight/java-developer-portfolio.git)
 
 Open index.html in your browser
 
