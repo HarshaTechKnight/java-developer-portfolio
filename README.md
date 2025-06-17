@@ -31,34 +31,6 @@ Welcome to my professional portfolio website showcasing my 5+ years of experienc
 **Backend:**  
 - (Optional: Can be connected to backend for form handling)  
 
-## 📂 File Structure
-portfolio/
-├── index.html # Main HTML file
-├── css/
-│ ├── styles.css # Global styles
-│ ├── header-styles.css # Header specific styles
-│ ├── hero-styles.css # Hero section styles
-│ ├── about-styles.css # About section styles
-│ ├── skills-styles.css # Skills section styles
-│ ├── experience-styles.css # Experience section styles
-│ ├── portfolio-styles.css # Portfolio section styles
-│ ├── contact-styles.css # Contact section styles
-│ └── footer-styles.css # Footer styles
-├── js/
-│ ├── script.js # Global JavaScript
-│ ├── header-script.js # Header specific scripts
-│ ├── hero-script.js # Hero section scripts
-│ ├── about-script.js # About section scripts
-│ ├── skills-script.js # Skills section scripts
-│ ├── experience-script.js # Experience section scripts
-│ ├── portfolio-script.js # Portfolio section scripts
-│ └── contact-script.js # Contact section scripts
-├── assets/
-│ ├── images/ # All portfolio images
-│ └── resume.pdf # Downloadable resume
-└── README.md # This file
-
-
 ## 🖥 Live Demo
 View Live Portfolio  
 (Replace with your actual deployment URL)
